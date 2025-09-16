@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
-import LoginPage from "./admin/page/LoginPage";
+import LoginPage from "./admin/page/loginPage";
 import Dashboard from "./admin/page/Dashboard";
 import { useState } from "react";
 import './App.css'
